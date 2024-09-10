@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on Any projects regarding AWS and Frontend
 - 📫 How to reach me 
 Ph:-9063856357 mail:- skiranappari@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him/his
+- ⚡ Fun fact: 
 
 <!---
 ASKiran2848/ASKiran2848 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
