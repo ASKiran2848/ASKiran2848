@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ASKiran2848
-- 👀 I’m interested in Cloud & FrontEnd Debvelopment
+- 👀 I’m interested in Cloud & FrontEnd Development
 - 🌱 I’m currently learning AWS and Frontend
 - 💞️ I’m looking to collaborate on Any projects regarding AWS and Frontend
 - 📫 How to reach me 
-Ph:-9063856357 mail:- skiranappari@gmail.com
+Ph:- 9063856357 mail:- skiranappari@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: A cloud weighs around a million tonnes.
 
